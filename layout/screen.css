@@ -1,0 +1,260 @@
+@media only screen and (max-width:1000px){
+body #main{
+position:relative;
+padding-top:290px;
+bottom:auto
+}
+body #footer.not-fixed,
+body #footer{
+position:relative;
+margin-top:5px
+}
+body #app{
+width:360px;
+min-height:auto;
+height:auto!important
+}
+#app .client-logo img{
+width:220px
+}
+#slide-background .bg-slider .bg-slider-item{
+
+}
+#side .tels,
+#side .pointer{
+display:none
+}
+#side .side-bg{
+right:105px;
+left:105px
+}
+#app.home #side:hover .side-bg{
+opacity:1
+}
+body #side #menu.open li,
+body #side #menu li.active{
+height:28px
+}
+body #side #menu li#li-index-inicio .label{
+display:none
+}
+body #side #menu li .mobile-ico .mobile-ico-line.mobile-ico-line-1{
+top:0
+}
+body #side #menu li .mobile-ico .mobile-ico-line.mobile-ico-line-2{
+top:8px
+}
+body #side #menu li .mobile-ico .mobile-ico-line.mobile-ico-line-3{
+top:16px
+}
+body #side #menu li .mobile-ico .mobile-ico-line{
+position:absolute;
+-ms-border-radius:30px30px;
+-o-border-radius:30px;
+-moz-border-radius:30px;
+-border-radius:30px;
+-webkit-border-radius:30px;
+border-radius:30px;
+-khtml-border-radius:30px;
+overflow:hidden;
+left:0;
+height:3px;
+background:#333;
+right:0
+}
+body #side #menu.open li#li-index-inicio .label{
+display:inline-block
+}
+body #side #menu.open li .mobile-ico{
+display:none
+}
+body #side #menu li .mobile-ico{
+width:30px;
+position:relative;
+height:18px;
+display:inline-block
+}
+body #side #menu li.facebook{
+display:none
+}
+body #side #menu.close li{
+height:0
+}
+body #side #menu li{
+overflow:hidden;
+-ms-transition:all .3s;
+-khtml-transition:all .3s;
+-o-transition:all .3s;
+-moz-transition:all .3s;
+-webkit-transition:all .3s;
+-transition:all .3s;
+transition:all .3s;
+height:0
+}
+body #side #menu li a{
+padding-left:0
+}
+#side #menu li{
+text-align:center;
+margin:auto;
+width:160px
+}
+.no-mobile-version{
+display:none
+}
+#footer .footer-info{
+width:240px
+}
+#side #menu{
+padding:0;
+width:160px;
+margin:auto;
+top:0;
+position:relative;
+padding-top:235px;
+left:0
+}
+#side{
+bottom:auto;
+width:auto;
+padding-bottom:5px;
+position:absolute;
+right:0
+}
+.app-bg-gradient,
+.app-side-gradient{
+display:none
+}
+.app-section-contacto .form .info-box p.info-box-ok,
+.app-section-contacto .form .info-box p.info-box-error{
+width:268px
+}
+.app-section-contacto .form{
+padding:25px 20px
+}
+.app-section-contacto .form-fields .input label{
+width:100%;
+text-align:left;
+margin-bottom:2px;
+top:0
+}
+#app .client-logo{
+height:223px;
+width:100%;
+left:auto;
+margin:auto;
+text-align:center;
+top:5px
+}
+body .app-section-home .content .content-inside{
+margin:auto;
+padding:10px
+}
+body .app-section-servicios .content .item.active{
+width:100%;
+bottom:0!important;
+top:0!important;
+left:0!important
+}
+body .app-section-servicios .content .item.item-1{
+left:0;
+top:0
+}
+body .app-section-servicios .content .item.item-2{
+left:180px;
+top:0
+}
+body .app-section-servicios .content .item.item-3{
+left:0;
+top:180px
+}
+body .app-section-servicios .content .item.item-4{
+left:180px;
+top:180px
+}
+body .app-section-servicios .content .item.item-5{
+left:0;
+top:360px
+}
+body .app-section-servicios .content .item.item-6{
+left:360px;
+top:360px
+}
+body .app-section-servicios .content .item{
+-ms-transition:all .3s;
+-khtml-transition:all .3s;
+-o-transition:all .3s;
+-moz-transition:all .3s;
+-webkit-transition:all .3s;
+-transition:all .3s;
+transition:all .3s;
+width:180px;
+}
+body .app-section-barra-movil .content .item .item-content{
+height:auto;
+position:relative
+}
+body .app-section-barra-movil .content .item .item-head{
+text-align:center
+}
+body .app-section-barra-movil .content .item.item-1.active{
+height:600px
+}
+body .app-section-barra-movil .content .item.item-2.active{
+height:700px
+}
+body .app-section-barra-movil .content .item.item-3.active{
+height:745px
+}
+body .app-section-barra-movil .content .item.active{
+width:360px
+}
+body .app-section-barra-movil .content .item.inactive{
+height:0
+}
+body .app-section-barra-movil .content .item{
+height:165px;
+margin:auto;
+float:none;
+-ms-transition:all .3s;
+-khtml-transition:all .3s;
+-o-transition:all .3s;
+-moz-transition:all .3s;
+-webkit-transition:all .3s;
+-transition:all .3s;
+transition:all .3s
+}
+body .app-section-servicios.app-section-menu .content{
+height:740px
+}
+body .app-section-servicios .content{
+width:360px;
+height:540px
+}
+body .widget-slider .widget-slider-container{
+height:350px;
+width:340px
+}
+body .widget-slider .widget-slider-navigation{
+text-align:center
+}
+body .widget-slider .widget-slider-img img{
+width:160px
+}
+body .widget-slider .widget-slider-navigation .widget-slider-navigation-bg{
+padding-top:10px;
+background:none
+}
+body .app-section-clientes .content,
+body .app-section-barra-movil .content,
+body .app-section-servicios .content,
+body .app-section-contacto .content,
+body .app-section-home .content{
+width:100%;
+position:relative;
+bottom:auto;
+right:auto;
+margin:auto;
+top:0
+}
+}

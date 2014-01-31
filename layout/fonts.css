@@ -1,0 +1,12 @@
+@font-face{
+	font-family:'GillSansDisplayMTPro-Bold';
+  font-style:normal;
+  font-weight:normal;
+	src:url('fonts/GillSansDisplayMTPro-Bold.eot');
+	src:local('☺'), url('fonts/GillSansDisplayMTPro-Bold.otf') format('opentype'), url('fonts/GillSansDisplayMTPro-Bold.woff') format('woff'), url('fonts/GillSansDisplayMTPro-Bold.svg#svgFont') format('svg')
+}
+.GillSans-font *,
+.GillSans-font{
+text-rendering:optimizeLegibility;
+font-family:'GillSansDisplayMTPro-Bold', Trebuchet MS,Helvetica,Arial,Lucida Sans Unicode,Lucida Grande,Tahoma,Geneva,Verdana,sans-serif
+}
